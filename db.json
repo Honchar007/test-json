@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "url": "pizza_four_cheezes",
+      "productName": "Four Cheezes",
+      "productDescription": "About Pizza ",
+      "price": 155.05,
+      "images": ["/Pizza/Cheeze/FourCheezes.png", "asd"],
+      "weight": 250,
+      "relatedProductIds": [2,3,4],
+      "spicy": false,
+      "categoryId": 2,
+      "recommended": true 
+    },
+    {
+      "url": "pizza_four_cheezes_deluxe",
+      "productName": "Four Cheezes DeLuxe",
+      "productDescription": "About Pizza ",
+      "price": 200.05,
+      "images": ["/Pizza/Cheeze/FourCheezeDeLuxe.png", "asd"],
+      "weight": 250,
+      "relatedProductIds": [2,3,4],
+      "spicy": false,
+      "categoryId": 2,
+      "recommended": true 
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
