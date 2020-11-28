@@ -21,8 +21,104 @@
       "weight": 250,
       "relatedProductIds": [2,3,4],
       "spicy": false,
-      "categoryId": 2,
+      "categoryId": 1,
       "recommended": true 
+    },
+    {
+      "url": "italian",
+      "productName": "Italian",
+      "productDescription": "About Pizza ",
+      "price": 180.20,
+      "images": "./Pizza/Cheeze/Italian.png",
+      "weight": 250,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 1,
+      "recommended": true
+    },
+    {
+      "url": "lovesofcheese",
+      "productName": "Loves Of Cheese",
+      "productDescription": "About Pizza ",
+      "price": 180.20,
+      "images": "./Pizza/Cheeze/LovesOfCheese.png",
+      "weight": 250,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 1,
+      "recommended": true
+    },
+    {
+      "url": "margarita",
+      "productName": "Margarita",
+      "productDescription": "About Pizza ",
+      "price": 230.20,
+      "images": "./Pizza/Cheeze/Margarita.png",
+      "weight": 250,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 1,
+      "recommended": true
+    },
+    {
+      "url": "margaritadeluxe",
+      "productName": "Margarita DeLuxe",
+      "productDescription": "About Pizza ",
+      "price": 260.35,
+      "images": "./Pizza/Cheeze/MargaritaDeLuxe.png",
+      "weight": 250,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 1,
+      "recommended": true
+    },
+    {
+      "url": "gavaian",
+      "productName": "Gavaian",
+      "productDescription": "About Pizza ",
+      "price": 225.35,
+      "images": "./Pizza/Gavaian.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 2,
+      "recommended": true
+    },
+    {
+      "url": "julietta",
+      "productName": "Julietta",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Julietta.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 2,
+      "recommended": true
     }
   ],
   "profile": {
