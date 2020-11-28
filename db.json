@@ -10,7 +10,7 @@
       "relatedProductIds": [2,3,4],
       "spicy": false,
       "categoryId": 2,
-      "recommended": true 
+      "rec": false 
     },
     {
       "url": "pizza_four_cheezes_deluxe",
@@ -22,7 +22,7 @@
       "relatedProductIds": [2,3,4],
       "spicy": false,
       "categoryId": 1,
-      "recommended": true 
+      "rec": true 
     },
     {
       "url": "italian",
@@ -38,7 +38,7 @@
       ],
       "spicy": false,
       "categoryId": 1,
-      "recommended": true
+      "rec": false
     },
     {
       "url": "lovesofcheese",
@@ -54,7 +54,7 @@
       ],
       "spicy": false,
       "categoryId": 1,
-      "recommended": true
+      "rec": false
     },
     {
       "url": "margarita",
@@ -70,7 +70,7 @@
       ],
       "spicy": false,
       "categoryId": 1,
-      "recommended": true
+      "rec": true
     },
     {
       "url": "margaritadeluxe",
@@ -86,7 +86,7 @@
       ],
       "spicy": false,
       "categoryId": 1,
-      "recommended": true
+      "rec": true
     },
     {
       "url": "gavaian",
@@ -102,7 +102,7 @@
       ],
       "spicy": false,
       "categoryId": 2,
-      "recommended": true
+      "rec": true
     },
     {
       "url": "julietta",
@@ -118,7 +118,7 @@
       ],
       "spicy": false,
       "categoryId": 2,
-      "recommended": true
+      "rec": true
     }
   ],
   "profile": {
