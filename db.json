@@ -5,11 +5,11 @@
       "productName": "Four Cheezes",
       "productDescription": "About Pizza ",
       "price": 155.05,
-      "images": "./Pizza/European.png",
+      "images": "./Pizza/Cheeze/FourCheeze.png",
       "weight": 250,
       "relatedProductIds": [2,3,4],
       "spicy": false,
-      "categoryId": 2,
+      "categoryId": 1,
       "rec": false 
     },
     {
@@ -93,7 +93,7 @@
       "productName": "Gavaian",
       "productDescription": "About Pizza ",
       "price": 225.35,
-      "images": "./Pizza/Gavaian.png",
+      "images": "./Pizza/Meat/Gavaian.png",
       "weight": 220,
       "relatedProductIds": [
         2,
@@ -109,7 +109,39 @@
       "productName": "Julietta",
       "productDescription": "About Pizza ",
       "price": 213.35,
-      "images": "./Pizza/Julietta.png",
+      "images": "./Pizza/Meat/Julietta.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 2,
+      "rec": true
+    },
+    {
+      "url": "loveofmeat",
+      "productName": "Loves of Meat",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Meat/lovesOfMeat.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 2,
+      "rec": true
+    },
+    {
+      "url": "loveofpapperoni",
+      "productName": "Loves of Papperoni",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Meat/lovesOfPapperoni.png",
       "weight": 220,
       "relatedProductIds": [
         2,
@@ -120,6 +152,120 @@
       "categoryId": 2,
       "rec": true
     }
+    ,
+    {
+      "url": "loveofsupermeat",
+      "productName": "Loves of Super Meat",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Meat/lovesOfSuperMeat.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 2,
+      "rec": true
+    },
+    {
+      "url": "bigchicken",
+      "productName": "Big Chicken",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Brand/BigChicken.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 3,
+      "rec": true
+    },
+    {
+      "url": "cheezeburger",
+      "productName": "Cheezeburger",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Brand/CheezeBurger.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 3,
+      "rec": true
+    },
+    {
+      "url": "gribnaya",
+      "productName": "Mushroom splash",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Brand/Gribnaya.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 3,
+      "rec": true
+    },
+    {
+      "url": "pizzahutsuprim",
+      "productName": "Pizza Hut Supreme",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Brand/PizzaHutSuprim.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 3,
+      "rec": true
+    },
+    {
+      "url": "spicy",
+      "productName": "Spicy",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Brand/Spicy.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": true,
+      "categoryId": 3,
+      "rec": true
+    },
+    {
+      "url": "supersuprim",
+      "productName": "Super Supreme",
+      "productDescription": "About Pizza ",
+      "price": 213.35,
+      "images": "./Pizza/Brand/SuperSuprim.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": true,
+      "categoryId": 3,
+      "rec": true
+    }
+
   ],
   "profile": {
     "name": "typicode"
