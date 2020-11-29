@@ -3,7 +3,7 @@
     {
       "url": "pizza_four_cheezes",
       "productName": "Four Cheezes",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 155.05,
       "images": "./Pizza/Cheeze/FourCheeze.png",
       "weight": 250,
@@ -15,7 +15,7 @@
     {
       "url": "pizza_four_cheezes_deluxe",
       "productName": "Four Cheezes DeLuxe",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 200.05,
       "images": "./Pizza/Cheeze/FourCheezeDeLuxe.png",
       "weight": 250,
@@ -27,7 +27,7 @@
     {
       "url": "italian",
       "productName": "Italian",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 180.20,
       "images": "./Pizza/Cheeze/Italian.png",
       "weight": 250,
@@ -43,7 +43,7 @@
     {
       "url": "lovesofcheese",
       "productName": "Loves Of Cheese",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 180.20,
       "images": "./Pizza/Cheeze/LovesOfCheese.png",
       "weight": 250,
@@ -59,7 +59,7 @@
     {
       "url": "margarita",
       "productName": "Margarita",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 230.20,
       "images": "./Pizza/Cheeze/Margarita.png",
       "weight": 250,
@@ -75,7 +75,7 @@
     {
       "url": "margaritadeluxe",
       "productName": "Margarita DeLuxe",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 260.35,
       "images": "./Pizza/Cheeze/MargaritaDeLuxe.png",
       "weight": 250,
@@ -91,7 +91,7 @@
     {
       "url": "european",
       "productName": "European",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25 ",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping!  ",
       "price": 225.35,
       "images": "./Pizza/Meat/European.png",
       "weight": 220,
@@ -107,7 +107,7 @@
     {
       "url": "gavaian",
       "productName": "Gavaian",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 225.35,
       "images": "./Pizza/Meat/Gavaian.png",
       "weight": 220,
@@ -123,7 +123,7 @@
     {
       "url": "julietta",
       "productName": "Julietta",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Meat/Julietta.png",
       "weight": 220,
@@ -139,7 +139,7 @@
     {
       "url": "loveofmeat",
       "productName": "Loves of Meat",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Meat/lovesOfMeat.png",
       "weight": 220,
@@ -155,7 +155,7 @@
     {
       "url": "loveofpapperoni",
       "productName": "Loves of Papperoni",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Meat/lovesOfPapperoni.png",
       "weight": 220,
@@ -172,7 +172,7 @@
     {
       "url": "loveofsupermeat",
       "productName": "Loves of Super Meat",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Meat/lovesOfSuperMeat.png",
       "weight": 220,
@@ -188,7 +188,7 @@
     {
       "url": "bigchicken",
       "productName": "Big Chicken",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Brand/BigChicken.png",
       "weight": 220,
@@ -204,7 +204,7 @@
     {
       "url": "cheezeburger",
       "productName": "Cheezeburger",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Brand/CheezeBurger.png",
       "weight": 220,
@@ -220,7 +220,7 @@
     {
       "url": "gribnaya",
       "productName": "Mushroom splash",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Brand/Gribnaya.png",
       "weight": 220,
@@ -236,7 +236,7 @@
     {
       "url": "pizzahutsuprim",
       "productName": "Pizza Hut Supreme",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Brand/PizzaHutSuprim.png",
       "weight": 220,
@@ -252,7 +252,7 @@
     {
       "url": "spicy",
       "productName": "Spicy",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Brand/Spicy.png",
       "weight": 220,
@@ -268,7 +268,7 @@
     {
       "url": "supersuprim",
       "productName": "Super Supreme",
-      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! Upgrade from £4.25",
+      "productDescription": "The main event! Doughy bites bursting with cheese and garlic. Tear and share - perfect for dipping! ",
       "price": 213.35,
       "images": "./Pizza/Brand/SuperSuprim.png",
       "weight": 220,
