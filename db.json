@@ -89,6 +89,22 @@
       "rec": true
     },
     {
+      "url": "european",
+      "productName": "European",
+      "productDescription": "About Pizza ",
+      "price": 225.35,
+      "images": "./Pizza/Meat/European.png",
+      "weight": 220,
+      "relatedProductIds": [
+        2,
+        3,
+        4
+      ],
+      "spicy": false,
+      "categoryId": 2,
+      "rec": true
+    },
+    {
       "url": "gavaian",
       "productName": "Gavaian",
       "productDescription": "About Pizza ",
