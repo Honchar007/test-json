@@ -1,5 +1,11 @@
 {
   "sales":[
+    {
+      "titles": "titles.txt",
+      "maintext":"maintext.txt",
+      "images":"images.txt"
+
+    }
 
   ],
   "orders": [{ "id": 64754 }],
